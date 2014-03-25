@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Unlock The Treasure</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="find_text_label">Find:</string>
+    <string name="button1_label">New Game</string>
+    <string name="button2_label">UnCover</string>
+    <string name="title_activity_result">Result</string>
+    <string name="text1_congrats_label">Congratulations, you unlocked the treasure chest!</string>
+    <string name="text2_time_label">Time Elapsed: </string>
+    <string name="button3_label">Try Again</string>
+    <string name="button4_label">Exit</string>
+
+</resources>
